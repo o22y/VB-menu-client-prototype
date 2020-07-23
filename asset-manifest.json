@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/VB-menu-prototype/static/css/main.c25723c6.chunk.css",
-    "main.js": "/VB-menu-prototype/static/js/main.59106642.chunk.js",
-    "main.js.map": "/VB-menu-prototype/static/js/main.59106642.chunk.js.map",
-    "runtime-main.js": "/VB-menu-prototype/static/js/runtime-main.83591d5b.js",
-    "runtime-main.js.map": "/VB-menu-prototype/static/js/runtime-main.83591d5b.js.map",
-    "static/css/2.5a510433.chunk.css": "/VB-menu-prototype/static/css/2.5a510433.chunk.css",
-    "static/js/2.42bbf764.chunk.js": "/VB-menu-prototype/static/js/2.42bbf764.chunk.js",
-    "static/js/2.42bbf764.chunk.js.map": "/VB-menu-prototype/static/js/2.42bbf764.chunk.js.map",
-    "index.html": "/VB-menu-prototype/index.html",
-    "precache-manifest.bc5e3786e70cf8d9a9aa923c450e7130.js": "/VB-menu-prototype/precache-manifest.bc5e3786e70cf8d9a9aa923c450e7130.js",
-    "service-worker.js": "/VB-menu-prototype/service-worker.js",
-    "static/css/2.5a510433.chunk.css.map": "/VB-menu-prototype/static/css/2.5a510433.chunk.css.map",
-    "static/css/main.c25723c6.chunk.css.map": "/VB-menu-prototype/static/css/main.c25723c6.chunk.css.map",
-    "static/js/2.42bbf764.chunk.js.LICENSE.txt": "/VB-menu-prototype/static/js/2.42bbf764.chunk.js.LICENSE.txt",
-    "static/media/rest.jpg": "/VB-menu-prototype/static/media/rest.b6839538.jpg",
-    "static/media/stripses.jpg": "/VB-menu-prototype/static/media/stripses.e024b16e.jpg"
+    "main.css": "/VB-menu-client-prototype/static/css/main.c25723c6.chunk.css",
+    "main.js": "/VB-menu-client-prototype/static/js/main.7d70dbd9.chunk.js",
+    "main.js.map": "/VB-menu-client-prototype/static/js/main.7d70dbd9.chunk.js.map",
+    "runtime-main.js": "/VB-menu-client-prototype/static/js/runtime-main.79b0a65f.js",
+    "runtime-main.js.map": "/VB-menu-client-prototype/static/js/runtime-main.79b0a65f.js.map",
+    "static/css/2.5a510433.chunk.css": "/VB-menu-client-prototype/static/css/2.5a510433.chunk.css",
+    "static/js/2.42bbf764.chunk.js": "/VB-menu-client-prototype/static/js/2.42bbf764.chunk.js",
+    "static/js/2.42bbf764.chunk.js.map": "/VB-menu-client-prototype/static/js/2.42bbf764.chunk.js.map",
+    "index.html": "/VB-menu-client-prototype/index.html",
+    "precache-manifest.c79950ff5bf0837bf29acf0b62143d64.js": "/VB-menu-client-prototype/precache-manifest.c79950ff5bf0837bf29acf0b62143d64.js",
+    "service-worker.js": "/VB-menu-client-prototype/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/VB-menu-client-prototype/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.c25723c6.chunk.css.map": "/VB-menu-client-prototype/static/css/main.c25723c6.chunk.css.map",
+    "static/js/2.42bbf764.chunk.js.LICENSE.txt": "/VB-menu-client-prototype/static/js/2.42bbf764.chunk.js.LICENSE.txt",
+    "static/media/rest.jpg": "/VB-menu-client-prototype/static/media/rest.b6839538.jpg",
+    "static/media/stripses.jpg": "/VB-menu-client-prototype/static/media/stripses.e024b16e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83591d5b.js",
+    "static/js/runtime-main.79b0a65f.js",
     "static/css/2.5a510433.chunk.css",
     "static/js/2.42bbf764.chunk.js",
     "static/css/main.c25723c6.chunk.css",
-    "static/js/main.59106642.chunk.js"
+    "static/js/main.7d70dbd9.chunk.js"
   ]
 }
