@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/VB-menu-client-prototype/static/css/main.175f43d9.chunk.css",
-    "main.js": "/VB-menu-client-prototype/static/js/main.f92e39cf.chunk.js",
-    "main.js.map": "/VB-menu-client-prototype/static/js/main.f92e39cf.chunk.js.map",
+    "main.css": "/VB-menu-client-prototype/static/css/main.64a89332.chunk.css",
+    "main.js": "/VB-menu-client-prototype/static/js/main.448ec525.chunk.js",
+    "main.js.map": "/VB-menu-client-prototype/static/js/main.448ec525.chunk.js.map",
     "runtime-main.js": "/VB-menu-client-prototype/static/js/runtime-main.79b0a65f.js",
     "runtime-main.js.map": "/VB-menu-client-prototype/static/js/runtime-main.79b0a65f.js.map",
     "static/css/2.5a510433.chunk.css": "/VB-menu-client-prototype/static/css/2.5a510433.chunk.css",
     "static/js/2.42bbf764.chunk.js": "/VB-menu-client-prototype/static/js/2.42bbf764.chunk.js",
     "static/js/2.42bbf764.chunk.js.map": "/VB-menu-client-prototype/static/js/2.42bbf764.chunk.js.map",
     "index.html": "/VB-menu-client-prototype/index.html",
-    "precache-manifest.12b8f00842269a43f3cf14cf755fa49b.js": "/VB-menu-client-prototype/precache-manifest.12b8f00842269a43f3cf14cf755fa49b.js",
+    "precache-manifest.1f72aca4846db95e427a8a737af4cf24.js": "/VB-menu-client-prototype/precache-manifest.1f72aca4846db95e427a8a737af4cf24.js",
     "service-worker.js": "/VB-menu-client-prototype/service-worker.js",
     "static/css/2.5a510433.chunk.css.map": "/VB-menu-client-prototype/static/css/2.5a510433.chunk.css.map",
-    "static/css/main.175f43d9.chunk.css.map": "/VB-menu-client-prototype/static/css/main.175f43d9.chunk.css.map",
+    "static/css/main.64a89332.chunk.css.map": "/VB-menu-client-prototype/static/css/main.64a89332.chunk.css.map",
     "static/js/2.42bbf764.chunk.js.LICENSE.txt": "/VB-menu-client-prototype/static/js/2.42bbf764.chunk.js.LICENSE.txt",
     "static/media/rest.jpg": "/VB-menu-client-prototype/static/media/rest.b6839538.jpg",
     "static/media/stripses.jpg": "/VB-menu-client-prototype/static/media/stripses.e024b16e.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.79b0a65f.js",
     "static/css/2.5a510433.chunk.css",
     "static/js/2.42bbf764.chunk.js",
-    "static/css/main.175f43d9.chunk.css",
-    "static/js/main.f92e39cf.chunk.js"
+    "static/css/main.64a89332.chunk.css",
+    "static/js/main.448ec525.chunk.js"
   ]
 }
